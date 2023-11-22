@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/uei-systems.css">
+    <link rel="stylesheet" href="CSS/product-page.css">
+    <link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
+    <title>UEI Systems</title>
+</head>
+
+<body>
+    <header class="container">
+        <!--hamburger bars-->
+        <div id="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div id="close-menu">&times;</div>
+        <div id="banner">
+            <section>
+                <h1>Our Products</h1>
+            </section>
+            <section>
+                <img src="images/systems-logo.png" alt="logo">
+            </section>
+        </div>
+        <div id="menu">
+            <ul>
+                <li><a href="uei-systems.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li class="active"><a href="#copper">Products</a></li>
+                <li><a href="sds-sheets.html">Safety Docs</a></li>
+                <li><a href="policies.html">Policies</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </div>
+    </header>
+    <main class="container" id="container">
+        <div id="product-marquee">
+            <aside id="product-menu">
+                <div id="product-menu-btn-wrapper">
+                    <button class="product-btn" id="copper-menu-btn">
+                        <a href="product-page.html#copper">MiraCopper</a>
+                    </button>
+                    <button class="product-btn" id="brass-menu-btn">
+                        <a href="product-page.html#brass">MiraBrass</a>
+                    </button>
+                    <button class="product-btn" id="mag-menu-btn">
+                        <a href="product-page.html#mag">MiraMag</a>
+                    </button>
+                    <button class="product-btn" id="safety-menu-btn">
+                        <a href="product-page.html#safety">Safety Supplies</a>
+                    </button>
+                    <button class="product-btn" id="counter-menu-btn">
+                        <a href="product-page.html#counter">Counter Supplies</a>
+                    </button>
+                </div>
+            </aside>
+            <section id="product-copy">
+                <h2></h2>
+                <p></p>
+            </section>
+        </div>
+        <div id="product-showcase">
+            <!-- Product cards populate here based on selected product-->
+        </div>
+        <div id="overlay" class="hide">
+            <!-- This overlay is triggered when popups show -->
+        </div>
+        <div id="popup-container" class="hide">
+            <!-- This popup is populated from clicking "View More" button -->
+            <!-- content dynamically generated -->
+        </div>
+        <img id="up-arrow-icon" src="images/icons/arrow-up-icon.png" alt="up-arrow-icon">
+    </main>
+</body>
+
+<script src="JS/uei-systems.js"></script>
+<script src="JS/product-page.js"></script>
+<script src="JS/product-fetch.js"></script>
+
+</html>

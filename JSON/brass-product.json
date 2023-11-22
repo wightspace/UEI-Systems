@@ -1,0 +1,556 @@
+{
+  "data": [
+    {
+      "id": "bra-1",
+      "aspect": "horizontal",
+      "title": "Mira® Brass, Aquamulsion® Positive Resist Coated",
+      "imagePath": "images/products/brass/brass-pos-resist.jpg",
+      "thumbnailPath": "images/products/brass/brass-pos-resist.jpg",
+      "description": {
+        "text": "Mira Brass, AquaMulsion Positive Resist Coated plates are some of the best in the industry. AquaMulsion Positive Resist is formulated to work with our GPC AquaMulsion Positive Developer, a special water soluble developer.<br><br>UEI has worked to overcome the challenges that positive resists traditionally had in the past. AquaMulsion Positive Resist Coatings offer exceptional resolution and the fine line capabilities you expect from a positive resist coating. Both our positive and negative resist coated plates can handle resolutions up to 25,000 lines per inch, and both have a coated shelf life of 1 year!<br><br>These products have Perfect Parallelism with +/- .0004\"/.010mm.<br><br>",
+        "sizes": [
+          "Available in the following sizes:",
+          "24\" x 18\" x .250\" (609.6mm x 457.2mm x 6.35mm)"
+        ]
+      },
+      "prodNum": "Product #: IF-BRS",
+      "priceType": "Price Per Sheet",
+      "prices": [
+        "$392.13"
+      ]
+    },
+    {
+      "id": "bra-2",
+      "aspect": "horizontal",
+      "title": "Mira® Brass, Aquamulsion® Negative Resist Coated",
+      "imagePath": "images/products/brass/brass-neg-resist.jpg",
+      "thumbnailPath": "images/products/brass/brass-neg-resist.jpg",
+      "description": {
+        "text": "Miraâ Brass, AquaMulsionâ Negative Resist Coated plates are some of the best in the industry. AquaMulsion Negative Resist is formulated to work with our GPC AquaMulsion Negative Developer, a special water soluble developer.<br><br>UEI constantly works to improve our product quality. Unlike many negative resist plates on the market, our negative resist plates can hold fine line resolutions equally as well as positive resist plates!<br><br>All our coated plates can handle resolutions up to 25,000 lines per inch. And with UEI’s AquaMulsion coated plates, you no longer have to worry about short shelf lives. Our negative resist coated plates have a coated shelf life of 1 year!<br><br>These products have Perfect Parallelism with +/- .0004\"/.010mm.<br><br>",
+        "sizes": [
+          "Available in the following sizes:<br><br>24\" x 18\" x .250\" (609.6mm x 457.2mm x 6.35mm)"
+        ]
+      },
+      "prodNum": "Product #: IF-BRS8223",
+      "priceType": "Price Per Sheet",
+      "prices": [
+        "$392.13"
+      ]
+    },
+    {
+      "id": "bra-3",
+      "aspect": "horizontal",
+      "title": "Mira® Brass, Uncoated",
+      "imagePath": "images/products/brass/brass-uncoated.jpg",
+      "thumbnailPath": "images/products/brass/brass-uncoated.jpg",
+      "description": {
+        "text": "For all your specialized needs, UEI also offers our same quality brass plates in a raw (uncoated) version. Our brass is perfect for hand engraving, CNC engraving or etching. Capable of producing over a million impressions, brass is the material of choice for high-quality engraved dies.<br><br>",
+        "sizes": [
+          "Available in the following sizes:<br><br>24\" x 18\" x .250\" (609.6mm x 457.2mm x 6.35mm)<br>24\" x 36\" x .250\" (609.6mm x 914.4mm x 6.35mm)"
+        ]
+      },
+      "prodNum": "Product #: IR-BRS",
+      "priceType": "Price Per Sheet",
+      "prices": [
+        "Call for price"
+      ]
+    },
+    {
+      "id": "bra-4",
+      "aspect": "horizontal",
+      "title": "Air Grinder",
+      "imagePath": "images/products/brass/air-grinder-med.jpg",
+      "thumbnailPath": "images/products/brass/air-grinder-sm.jpg",
+      "description": {
+        "text": "Air grinders are used for sculpting brass dies and for copper hand finishing. They are comfortable to hold in the hand, and have adjustable speeds. Perfect for precision work, they can accept a wide variety of bits including burrs, sanding discs, buffing tools and much more.<br><br>Air Grinders are also useful for counter grinding and relief.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2524",
+      "priceType": "Price For Each",
+      "prices": [
+        "$2,369.39"
+      ]
+    },
+    {
+      "id": "bra-5",
+      "aspect": "horizontal",
+      "title": "3/8\" Endmill (9.525mm)",
+      "imagePath": "images/products/brass/3_8-endmill-med.jpg",
+      "thumbnailPath": "images/products/brass/3_8-endmill-sm.jpg",
+      "description": {
+        "text": "Used on a milling machine to relieve excess background around copper and brass dies.<br> (No Bevel)<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO3304",
+      "priceType": "Price Per Endmill",
+      "prices": [
+        "$26.71"
+      ]
+    },
+    {
+      "id": "bra-6",
+      "aspect": "horizontal",
+      "title": "1/2\" Endmill (12.7mm)",
+      "imagePath": "images/products/brass/1_2-endmill-med.jpg",
+      "thumbnailPath": "images/products/brass/1_2-endmill-sm.jpg",
+      "description": {
+        "text": "Used on a milling machine to relieve excess background around copper and brass dies.<br> (No Bevel)<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO3306",
+      "priceType": "Price Per Endmill",
+      "prices": [
+        "$38.21"
+      ]
+    },
+    {
+      "id": "bra-7",
+      "aspect": "horizontal",
+      "title": "Sanding Disk Holder 1/2\" (12.7mm)",
+      "imagePath": "images/products/brass/disc-holder-med.jpg",
+      "thumbnailPath": "images/products/brass/disc-holder-sm.jpg",
+      "description": {
+        "text": "Reusable bit for use with air grinders or electric grinders. Attach replaceable sanding disks to the holder for precision sanding of small areas.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2470",
+      "priceType": "Price For Each",
+      "prices": [
+        "$2.57"
+      ]
+    },
+    {
+      "id": "bra-8",
+      "aspect": "horizontal",
+      "title": "Sanding Disk Holder 3/4\" (10.05mm)",
+      "imagePath": "images/products/brass/disc-holder-med.jpg",
+      "thumbnailPath": "images/products/brass/disc-holder-sm.jpg",
+      "description": {
+        "text": "Reusable bit for use with air grinders or electric grinders. Attach replaceable sanding disks to the holder for precision sanding of small areas.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2472",
+      "priceType": "Price For Each",
+      "prices": [
+        "$5.84"
+      ]
+    },
+    {
+      "id": "bra-9",
+      "aspect": "horizontal",
+      "title": "Sanding Disk Holder 1\" (25.4mm)",
+      "imagePath": "images/products/brass/disc-holder-med.jpg",
+      "thumbnailPath": "images/products/brass/disc-holder-sm.jpg",
+      "description": {
+        "text": "Reusable bit for use with air grinders or electric grinders. Attach replaceable sanding disks to the holder for precision sanding of small areas.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2474",
+      "priceType": "Price For Each",
+      "prices": [
+        "$4.73"
+      ]
+    },
+    {
+      "id": "bra-9",
+      "aspect": "horizontal",
+      "title": "Sanding Disk Holder 1 1/2\" (38.1mm)",
+      "imagePath": "images/products/brass/disc-holder-med.jpg",
+      "thumbnailPath": "images/products/brass/disc-holder-sm.jpg",
+      "description": {
+        "text": "Reusable bit for use with air grinders or electric grinders. Attach replaceable sanding disks to the holder for precision sanding of small areas.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2475",
+      "priceType": "Price For Each",
+      "prices": [
+        "$5.84"
+      ]
+    },
+    {
+      "id": "bra-10",
+      "aspect": "horizontal",
+      "title": "Sanding Disks 1/2\" (12.7mm)",
+      "imagePath": "images/products/copper/discs-med.jpg",
+      "thumbnailPath": "images/products/copper/discs-sm.jpg",
+      "description": {
+        "text": "Sanding Disks are great multi-purpose tools. They are useful for smoothing sculptured brass dies, especially on flat areas of the die. Sanding Disks are also ideal for removing CNC tool marks on dies. For hand finishing, they are great for sculpting, blending and deburring holes and edges. Used with an air grinder or electric grinder. Available in a variety of sizes and grits for a wide variety of applications.",
+        "sizes": []
+      },
+      "prodNum": "Product #: (not listed)",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "50 Grit__$0.45",
+        "120 Grit__$0.45",
+        "150 Grit__$0.45",
+        "180 Grit__$0.45",
+        "240 Grit__$0.45",
+        "320 Grit__$0.45"
+      ]
+    },
+    {
+      "id": "bra-11",
+      "aspect": "horizontal",
+      "title": "Sanding Disks 3/4\" (19.05mm)",
+      "imagePath": "images/products/copper/discs-med.jpg",
+      "thumbnailPath": "images/products/copper/discs-sm.jpg",
+      "description": {
+        "text": "Sanding Disks are great multi-purpose tools. They are useful for smoothing sculptured brass dies, especially on flat areas of the die. Sanding Disks are also ideal for removing CNC tool marks on dies. For hand finishing, they are great for sculpting, blending and deburring holes and edges. Used with an air grinder or electric grinder. Available in a variety of sizes and grits for a wide variety of applications.",
+        "sizes": []
+      },
+      "prodNum": "Product #: (not listed)",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "80 Grit__$0.45",
+        "150 Grit__$0.45",
+        "320 Grit__$0.45"
+      ]
+    },
+    {
+      "id": "bra-12",
+      "aspect": "horizontal",
+      "title": "Sanding Disks 1\" (25.4mm)",
+      "imagePath": "images/products/copper/discs-med.jpg",
+      "thumbnailPath": "images/products/copper/discs-sm.jpg",
+      "description": {
+        "text": "Sanding Disks are great multi-purpose tools. They are useful for smoothing sculptured brass dies, especially on flat areas of the die. Sanding Disks are also ideal for removing CNC tool marks on dies. For hand finishing, they are great for sculpting, blending and deburring holes and edges. Used with an air grinder or electric grinder. Available in a variety of sizes and grits for a wide variety of applications.",
+        "sizes": []
+      },
+      "prodNum": "Product #: (not listed)",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "80 Grit__$0.45",
+        "150 Grit__$0.45",
+        "180 Grit__$0.45",
+        "240 Grit__$0.45",
+        "320 Grit__$0.45",
+        "400 Grit__$0.45"
+      ]
+    },
+    {
+      "id": "bra-13",
+      "aspect": "horizontal",
+      "title": "Sanding Disks 1 1/2\" (38.1mm)",
+      "imagePath": "images/products/copper/discs-med.jpg",
+      "thumbnailPath": "images/products/copper/discs-sm.jpg",
+      "description": {
+        "text": "Sanding Disks are great multi-purpose tools. They are useful for smoothing sculptured brass dies, especially on flat areas of the die. Sanding Disks are also ideal for removing CNC tool marks on dies. For hand finishing, they are great for sculpting, blending and deburring holes and edges. Used with an air grinder or electric grinder. Available in a variety of sizes and grits for a wide variety of applications.",
+        "sizes": []
+      },
+      "prodNum": "Product #: (not listed)",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "80 Grit__$0.45",
+        "180 Grit__$0.45",
+        "320 Grit__$0.45"
+      ]
+    },
+    {
+      "id": "bra-15",
+      "aspect": "horizontal",
+      "title": "Burnishing Tool",
+      "imagePath": "images/products/brass/burnishing-tool-med.jpg",
+      "thumbnailPath": "images/products/brass/burnishing-tool-sm.jpg",
+      "description": {
+        "text": "Useful hand tool for burnishing out fine scratches and pinholes in flat stamp surfaces of copper and brass engraved dies.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO1996",
+      "priceType": "Price For Each",
+      "prices": [
+        "$20.03"
+      ]
+    },
+    {
+      "id": "bra-16",
+      "aspect": "horizontal",
+      "title": "Pointed Cone Burr (3/32\" / 2.35 mm shank)",
+      "imagePath": "images/products/brass/pointed-cone-burr-med.jpg",
+      "thumbnailPath": "images/products/brass/pointed-cone-burr-sm.jpg",
+      "description": {
+        "text": "A great versatile hand engraving tool for use in an electric grinder or hand grinder. Pointed cone burrs are good for creating sharp edges and bevels in sculptured brass engraved dies. Pointed cone burrs come in a variety of angles to allow for the greatest degree of precision. Not to be used on counters. (Package of 6)<br><br>",
+        "sizes": [
+          "Available in the following sizes:<br><br>1.00 mm 30° Pointed Cone Burr Fine Cut (3/32\" / 2.35 mm shank)<br>1.50 mm 30° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>2.00 mm 30° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>2.50 mm 30° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>3.50 mm 30° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>5.00 mm 30° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>1.00mm 45° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>1.50mm 45° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>2.00mm 45° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>3.00mm 45° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>4.00mm 45° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>1.00mm 60° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>2.50mm 60° Pointed Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>0.80mm 45° Pointed Cone Burr Coarse Cut (3/32\" / 2.35mm shank)<br>1.80mm 45° Pointed Cone Burr Coarse Cut (3/32\" / 2.35mm shank)<br>2.10mm 45° Pointed Cone Burr Coarse Cut (3/32\" / 2.35mm shank)<br>2.50mm 45° Pointed Cone Burr Coarse Cut (3/32\" / 2.35mm shank)"
+        ]
+      },
+      "prodNum": "Product #: IS-BUR",
+      "priceType": "Price For Each",
+      "prices": [
+        "-Select-",
+        "1.50mm 30degree-Fine__$2.10",
+        "2.00mm 30degree-Fine__$2.10",
+        "2.50mm 30degree-Fine__$2.73",
+        "3.50mm 30degree-Fine__$2.73",
+        "1.00mm 45degree-Fine__$1.58",
+        "1.50mm 45degree-Fine__$1.58",
+        "3.00mm 45degree-Fine__$2.73",
+        "4.00mm 45degree-Fine__$3.15",
+        "1.00mm 60degree-Fine__$3.15",
+        "2.50mm 60degree-Fine__$3.15",
+        "2.10mm 45degree-Fine__$1.16",
+        "2.50mm 45degree-Fine__$2.10"
+      ]
+    },
+    {
+      "id": "bra-17",
+      "aspect": "horizontal",
+      "title": "Ball Burr (3/32\" / 2.35 mm shank)",
+      "imagePath": "images/products/brass/ball-burr-med.jpg",
+      "thumbnailPath": "images/products/brass/ball-burr-sm.jpg",
+      "description": {
+        "text": "A great versatile hand engraving tool for use in an electric grinder or hand grinder. Ball Burrs are good for creating round edges and type, as well as many other effects. Not to be used on counters.<br><br>",
+        "sizes": [
+          "Available in the following sizes:<br><br>3.00mm Ball Burr Fine Cut (3/32\" / 2.35mm shank)<br>4.00mm Ball Burr Fine Cut (3/32\" / 2.35mm shank)<br>5.00mm Ball Burr Fine Cut (3/32\" / 2.35mm shank)<br>3.00mm Ball Burr Coarse Cut (3/32\" / 2.35mm shank)<br>3.50mm Ball Burr Coarse Cut (3/32\" / 2.35mm shank)<br>4.50mm Ball Burr Coarse Cut (3/32\" / 2.35mm shank)"
+        ]
+      },
+      "prodNum": "Product #: IS-BUR",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "4.00 mm - Fine__$3.15",
+        "3.00 mm - Coarse__$3.15",
+        "3.50 mm - Coarse__$3.15",
+        "4.00 mm - Coarse__$4.31",
+        "4.50 mm - Coarse__$4.31"
+      ]
+    },
+    {
+      "id": "bra-18",
+      "aspect": "horizontal",
+      "title": "Flame Burr (3/32\" / 2.35 mm shank)",
+      "imagePath": "images/products/brass/flame-burr-med.jpg",
+      "thumbnailPath": "images/products/brass/flame-burr-sm.jpg",
+      "description": {
+        "text": "A great versatile hand engraving tool for use in an electric grinder or hand grinder. Flame Burrs are used for a wide variety of brass sculpturing, including blending and creating beveled edges, as well as many other effects. Not to be used on counters.<br><br>",
+        "sizes": [
+          "Available in the following sizes:<br><br>1.00mm Flame Burr Fine Cut (3/32\" / 2.35mm shank) - IS-BUR2940<br>2.00mm Flame Burr Fine Cut (3/32\" / 2.35mm shank)<br>1.00mm Flame Burr Coarse Cut (3/32\" / 2.35mm shank)<br>2.00mm Flame Burr Coarse Cut (3/32\" / 2.35mm shank)<br>3.00mm Flame Burr Coarse Cut (3/32\" / 2.35mm shank)"
+        ]
+      },
+      "prodNum": "Product #: IS-BUR",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "1.00 mm - Fine__$2.10",
+        "1.00 mm - Coarse__$2.10"
+      ]
+    },
+    {
+      "id": "bra-19",
+      "aspect": "horizontal",
+      "title": "Inverted Cone Burr (3/32\" / 2.35 mm shank)",
+      "imagePath": "images/products/brass/inverted-cone-burr-med.jpg",
+      "thumbnailPath": "images/products/brass/inverted-cone-burr-sm.jpg",
+      "description": {
+        "text": "A great versatile hand engraving tool for use in an electric grinder or hand grinder. Inverted Cone Burrs are used for various fine line applications, such as pine needles and hair, as well as many other effects. They are also used for creating bevels. Not to be used on counters.<br><br>",
+        "sizes": [
+          "Available in the following sizes:<br><br>1.00mm Inverted Cone Burr Fine Cut (3/32\" / 2.35mm shank)<br>0.80mm Inverted Cone Burr Coarse Cut (3/32\" / 2.35mm shank)<br>0.90mm Inverted Cone Burr Coarse Cut (3/32\" / 2.35mm shank)"
+        ]
+      },
+      "prodNum": "Product #: IS-BUR",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "1.00 mm - Fine__$2.10",
+        "0.80 mm - Coarse__$3.26",
+        "0.90 mm - Coarse__$3.26"
+      ]
+    },
+    {
+      "id": "bra-20",
+      "aspect": "horizontal",
+      "title": "Bud Burr (3/32\" / 2.35 mm shank)",
+      "imagePath": "images/products/brass/bud-burr-med.jpg",
+      "thumbnailPath": "images/products/brass/bud-burr-sm.jpg",
+      "description": {
+        "text": "A great versatile hand engraving tool for use in an electric grinder or hand grinder. Bud Burrs are shaped like a flower, and are used for creating rounded edges and blending, as well as many other effects. Not to be used on counters.<br><br>",
+        "sizes": [
+          "Available in the following sizes:<br><br>0.60mm Bud Burr Coarse Cut (3/32\" / 2.35mm shank)<br>1.00mm Bud Burr Coarse Cut (3/32\" / 2.35mm shank)<br>1.80mm Bud Burr Coarse Cut (3/32\" / 2.35mm shank)<br>2.70mm Bud Burr Coarse Cut (3/32\" / 2.35mm shank)<br>3.10mm Bud Burr Coarse Cut (3/32\" / 2.35mm shank)"
+        ]
+      },
+      "prodNum": "Product #: IS-BUR",
+      "priceType": "Price Per Each",
+      "prices": [
+        "3.10 mm - Coarse__$5.25"
+      ]
+    },
+    {
+      "id": "bra-21",
+      "aspect": "horizontal",
+      "title": "White Engraving Stones - FL2 (Package of 12)",
+      "imagePath": "images/products/brass/white-eng-stone-med.jpg",
+      "thumbnailPath": "images/products/brass/white-eng-stone-sm.jpg",
+      "description": {
+        "text": "Hand Finishing Stones mounted on a shaft for use in an air grinder. Engraving Stones are great for smoothing and refining engraved brass dies. Can also be used to hand finish copper dies as well. FL2 has a more pointed tip than FL3.<br><br>",
+        "sizes": "Package of 12"
+      },
+      "prodNum": "Product #: IS-BUR2210",
+      "priceType": "Price Per Package",
+      "prices": [
+        "$42.61"
+      ]
+    },
+    {
+      "id": "bra-22",
+      "aspect": "horizontal",
+      "title": "White Engraving Stones - FL3 (Package of 12)",
+      "imagePath": "images/products/brass/white-eng-stone-med.jpg",
+      "thumbnailPath": "images/products/brass/white-eng-stone-sm.jpg",
+      "description": {
+        "text": "Hand Finishing Stones mounted on a shaft for use in an air grinder. Engraving Stones are great for smoothing and refining engraved brass dies. Can also be used to hand finish copper dies as well. FL3 has a more pointed tip than FL2.<br><br>",
+        "sizes": "Package of 12"
+      },
+      "prodNum": "Product #: IS-BUR2212",
+      "priceType": "Price Per Package",
+      "prices": [
+        "$42.61"
+      ]
+    },
+    {
+      "id": "bra-23",
+      "aspect": "horizontal",
+      "title": "Rubber Buffing Tools - Brown",
+      "imagePath": "images/products/brass/buffing-tool-brn-med.jpg",
+      "thumbnailPath": "images/products/brass/buffing-tool-brn-sm.jpg",
+      "description": {
+        "text": "Nicknamed \"Midgets\", these hand finishing tools are made of rubber impregnated with abrasives to refine and polish combo and emboss brass dies. Use in an air grinder or electric grinder. These Buffing Tools will give dies a polished, professional finish. Brown buffing tools are stiffer than green ones.<br><br>",
+        "sizes": "Box of 72"
+      },
+      "prodNum": "Product #: IS-BUR2214",
+      "priceType": "Price Per Box",
+      "prices": [
+        "$154.21"
+      ]
+    },
+    {
+      "id": "bra-24",
+      "aspect": "horizontal",
+      "title": "Rubber Buffing Tools - Green",
+      "imagePath": "images/products/brass/buffing-tool-grn-med.jpg",
+      "thumbnailPath": "images/products/brass/buffing-tool-grn-sm.jpg",
+      "description": {
+        "text": "Nicknamed \"Midgets\", these hand finishing tools are made of rubber impregnated with abrasives to refine and polish combo and emboss brass dies. Use in an air grinder or electric grinder. These Buffing Tools will give dies a polished, professional finish. Green buffing tools are softer than brown ones.<br><br>",
+        "sizes": "Box of 72"
+      },
+      "prodNum": "Product #: IS-BUR2215",
+      "priceType": "Price Per Box",
+      "prices": [
+        "$154.21"
+      ]
+    },
+    {
+      "id": "bra-25",
+      "aspect": "horizontal",
+      "title": "Rubber Points 8C",
+      "imagePath": "images/products/brass/rubber-points-grn-med.jpg",
+      "thumbnailPath": "images/products/brass/rubber-points-grn-sm.jpg",
+      "description": {
+        "text": "Rubber Points are hand finishing tools made of rubber impregnated with abrasives to refine and polish combo and emboss brass dies. Use with an air grinder or electric grinder. These Buffing Tools will give dies a polished, professional finish. Rubber Points are available in a variety of sizes and strengths to accommodate a wide variety of applications. A more disposable option than Rubber Buffing Tools.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-BUR2216",
+      "priceType": "Price Per Each",
+      "prices": [
+        "$1.11"
+      ]
+    },
+    {
+      "id": "bra-26",
+      "aspect": "horizontal",
+      "title": "Rubber Points 8F",
+      "imagePath": "images/products/brass/rubber-points-brn-med.jpg",
+      "thumbnailPath": "images/products/brass/rubber-points-brn-sm.jpg",
+      "description": {
+        "text": "Rubber Points are hand finishing tools made of rubber impregnated with abrasives to refine and polish combo and emboss brass dies. Use with an air grinder or electric grinder. These Buffing Tools will give dies a polished, professional finish. Rubber Points are available in a variety of sizes and strengths to accommodate a wide variety of applications. A more disposable option than Rubber Buffing Tools.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-BUR2217",
+      "priceType": "Price Per Each",
+      "prices": [
+        "$1.11"
+      ]
+    },
+    {
+      "id": "bra-27",
+      "aspect": "horizontal",
+      "title": "Rubber Points 13F",
+      "imagePath": "images/products/brass/rubber-points-grn-med.jpg",
+      "thumbnailPath": "images/products/brass/rubber-points-grn-sm.jpg",
+      "description": {
+        "text": "Rubber Points are hand finishing tools made of rubber impregnated with abrasives to refine and polish combo and emboss brass dies. Use with an air grinder or electric grinder. These Buffing Tools will give dies a polished, professional finish. Rubber Points are available in a variety of sizes and strengths to accommodate a wide variety of applications. A more disposable option than Rubber Buffing Tools.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-BUR2219",
+      "priceType": "Price Per Each",
+      "prices": [
+        "$1.11"
+      ]
+    },
+    {
+      "id": "bra-28",
+      "aspect": "horizontal",
+      "title": "Sanding Cone Mandrel",
+      "imagePath": "images/products/brass/sanding-cone-mandrel-med.jpg",
+      "thumbnailPath": "images/products/brass/sanding-cone-mandrel-sm.jpg",
+      "description": {
+        "text": "A metal shaft with a threaded end that will securely hold disposable sanding cones. Use with either an air grinder or electric grinder.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #:  IS-BUR2738",
+      "priceType": "Price Per Each",
+      "prices": [
+        "$11.80"
+      ]
+    },
+    {
+      "id": "bra-29",
+      "aspect": "horizontal",
+      "title": "Sanding Cones",
+      "imagePath": "images/products/brass/sanding-cone-med.jpg",
+      "thumbnailPath": "images/products/brass/sanding-cone-sm.jpg",
+      "description": {
+        "text": "Sanding cones are great for cleaning, refining and smoothing sculptured brass dies. These cones attach to a sanding cone mandrel, and can be used with either an air grinder or electric grinder. They are available in 5 different grit strengths to accommodate a variety of applications.<br><br>",
+        "sizes": "Grit strengths available:<br><br> 120<br>150<br>180<br>240<br>320"
+      },
+      "prodNum": "Product #:  IS-BUR2738",
+      "priceType": "Price Per Each",
+      "prices": [
+        "$11.80"
+      ]
+    },
+    {
+      "id": "bra-30",
+      "aspect": "horizontal",
+      "title": "Hand Modeling Clay",
+      "imagePath": "images/products/brass/clay-med.jpg",
+      "thumbnailPath": "images/products/brass/clay-sm.jpg",
+      "description": {
+        "text": "Plasticine clay used during hand engraving. Press the clay into the brass die to inspect the impression that the die will make. Use with talcum powder to reduce stickiness.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-ART1552",
+      "priceType": "Price Per box",
+      "prices": [
+        "$5.29"
+      ]
+    },
+    {
+      "id": "bra-100",
+      "aspect": "vertical",
+      "title": "Isopropyl Alcohol",
+      "imagePath": "images/products/brass/alcohol-med.jpg",
+      "thumbnailPath": "images/products/brass/alcohol-sm.jpg",
+      "description": {
+        "text": "Isopropyl Alcohol quickly and easily cleans counters and engraved dies. Will remove wax, Sharpie® marker and kill germs."
+      },
+      "prodNum": "Product #: IS-PRO1049",
+      "priceType": "Price Per Gallon",
+      "prices": [
+        "$16.26"
+      ]
+    }
+  ]
+}

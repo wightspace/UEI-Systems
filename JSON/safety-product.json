@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "id": "saf-1",
+      "aspect": "horizontal",
+      "title": "Chemical Apron",
+      "imagePath": "images/products/safety-supplies/chem-apron-sm.jpg",
+      "thumbnailPath": "images/products/safety-supplies/chem-apron-sm.jpg",
+      "description": {
+        "text": "Sturdy chemical apron to protect against accidental chemical splashes.<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO9402",
+      "priceType": "Price For Each",
+      "prices": [
+        "$56.76"
+      ]
+    },
+    {
+      "id": "saf-2",
+      "aspect": "horizontal",
+      "title": "Acid Gloves",
+      "imagePath": "images/products/safety-supplies/acid-gloves-med.jpg",
+      "thumbnailPath": "images/products/safety-supplies/acid-gloves-sm.jpg",
+      "description": {
+        "text": "Acid gloves provide good protection for handling dies in the etching room.<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO9420",
+      "priceType": "Price Per Pair",
+      "prices": [
+        "$15.95"
+      ]
+    },
+    {
+      "id": "saf-3",
+      "aspect": "horizontal",
+      "title": "Chemical Gloves",
+      "imagePath": "images/products/safety-supplies/chem-gloves-med.jpg",
+      "thumbnailPath": "images/products/safety-supplies/chem-gloves-sm.jpg",
+      "description": {
+        "text": "Chemical Gloves provide very good abrasion and puncture resistance, and offer protection against a wide range of chemicals including strong detergents, oils and certain solvents.<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO9421",
+      "priceType": "Price Per Pair",
+      "prices": [
+        "$4.73"
+      ]
+    },
+    {
+      "id": "saf-4",
+      "aspect": "horizontal",
+      "title": "Exam Gloves",
+      "imagePath": "images/products/safety-supplies/exam-gloves-med.jpg",
+      "thumbnailPath": "images/products/safety-supplies/exam-gloves-sm.jpg",
+      "description": {
+        "text": "Vinyl Exam Gloves protect hands while applying block-out, or other mild chemicals. They allow for easy hand movement and tactile sensitivity. Available in a variety of sizes.<br><br>",
+        "sizes": "Available in sizes:<br><br>L<br>XL"
+      },
+      "prodNum": "Product #: IS-PRO",
+      "priceType": "Price Per Box",
+      "prices": [
+        "-Select-",
+        "Large__$13.65",
+        "X-Large__$13.13"
+      ]
+    },
+    {
+      "id": "saf-5",
+      "aspect": "horizontal",
+      "title": "Driver's Gloves",
+      "imagePath": "images/products/safety-supplies/driver-gloves-med.jpg",
+      "thumbnailPath": "images/products/safety-supplies/driver-gloves-sm.jpg",
+      "description": {
+        "text": "These leather work gloves are great for protecting hands from sharp edges and splinters.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #:  IS-PRO9423",
+      "priceType": "Price Per Pair",
+      "prices": [
+        "$15.86"
+      ]
+    },
+    {
+      "id": "saf-6",
+      "aspect": "horizontal",
+      "title": "Split Leather Gloves",
+      "imagePath": "images/products/safety-supplies/leather-gloves-med.jpg",
+      "thumbnailPath": "images/products/safety-supplies/leather-gloves-sm.jpg",
+      "description": {
+        "text": "These canvas and leather work gloves offer good protection from sharp edges and splinters. They are also good for handling hot materials, such as counter molding materials.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-PRO9432",
+      "priceType": "Price Per Pair",
+      "prices": [
+        "$14.68"
+      ]
+    },
+    {
+      "id": "saf-7",
+      "aspect": "horizontal",
+      "title": "Safety Glasses",
+      "imagePath": "images/products/safety-supplies/goggles-med.jpg",
+      "thumbnailPath": "images/products/safety-supplies/goggles-sm.jpg",
+      "description": {
+        "text": "Sturdy, shatter-proof safety glasses for general purpose eye protection.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-PRO9445",
+      "priceType": "Price For Each",
+      "prices": [
+        "$8.07"
+      ]
+    },
+    {
+      "id": "saf-8",
+      "aspect": "horizontal",
+      "title": "Tyvek® Sleeves",
+      "imagePath": "images/products/safety-supplies/sleeves-med.jpg",
+      "thumbnailPath": "images/products/safety-supplies/sleeves-sm.jpg",
+      "description": {
+        "text": "Tyvek® Sleeves are great for protecting clothing in the etching room, and anywhere else where clothing may get dirty or stained.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-PRO9455",
+      "priceType": "Price Per Pair",
+      "prices": [
+        "$2.23"
+      ]
+    },
+    {
+      "id": "saf-9",
+      "aspect": "horizontal",
+      "title": "Spill Socks",
+      "imagePath": "images/products/safety-supplies/spill-socks-med.jpg",
+      "thumbnailPath": "images/products/safety-supplies/spill-socks-sm.jpg",
+      "description": {
+        "text": "Strong absorbent spill socks are the best thing to have on hand to quickly control and absorb any liquid spills. These are especially valuable in the area around your press where oil may leak and create a hazard or safety concern.<br><br>",
+        "sizes": "Available in the following sizes:<br><br>8 feet long by 3\" diameter (2.4m x 76mm)"
+      },
+      "prodNum": "Product #: IS-PRO3447",
+      "priceType": "Price Per Sock",
+      "prices": [
+        "$36.73"
+      ]
+    },
+    {
+      "id": "saf-10",
+      "aspect": "horizontal",
+      "title": "Denim Apron",
+      "imagePath": "images/products/safety-supplies/denim-apron-med.jpg",
+      "thumbnailPath": "images/products/safety-supplies/denim-apron-sm.jpg",
+      "description": {
+        "text": "Protect your clothing with a multi-purpose apron. This heavy denim apron provides great coverage and protection. Comes with handy pockets for holding tools. One size fits all.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-PRO9404",
+      "priceType": "Price For Each",
+      "prices": [
+        "$22.26"
+      ]
+    }
+  ]
+}

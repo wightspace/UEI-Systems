@@ -1,0 +1,856 @@
+{
+  "data": [
+    {
+      "id": "cop-1",
+      "aspect": "horizontal",
+      "title": "GPC® MiraCopper® , Aquamulsion® Positive Resist Coated",
+      "imagePath": "images/products/copper/copper-pos-resist-sm.jpg",
+      "thumbnailPath": "images/products/copper/copper-pos-resist-sm.jpg",
+      "description": {
+        "text": "GPC\u00AE MiraCopper\u00AE, AquaMulsion\u00AE Positive Resist Coated plates are some of the best in the industry. AquaMulsion Positive Resist is formulated to work with our GPC AquaMulsion Positive Developer, a special water soluble developer.<br><br>UEI has worked to overcome the challenges that positive resists traditionally had in the past. AquaMulsion Positive Resist Coated Plates offer exceptional resolution and the fine line capabilities you expect from a positive resist coating. Both our positive and negative resist coated plates can handle resolutions up to 25,000 lines per inch, and both have a coated shelf life of 1 year! <br><br>These products have Perfect Parallelism with +/- .0004\"/.010mm.<br><br>",
+        "sizes": [
+          "Available in the following Sizes:<br><br>18\" x 18\" x .250\" (457.2mm x 457.2mm x 6.35mm)<br>18\" x 36\" x .250\" (457.2mm x 914.4mm x 6.35mm)<br>18\" x 18\" x .276\" (457.2mm x 457.2mm x 7mm)<br>18\" x 36\" x .276\" (457.2mm x 914.4mm x 7mm)<br>18\" x 36\" x .0625\" (16 gauge) (457.2mm x 914.4mm x 1.59mm)<br>18\" x 18\" x .0625\" (16 gauge) (457.2mm x 457.2mm x 1.59mm)"
+        ]
+      },
+      "prodNum": "Product #: IF-CPR",
+      "priceType": "Price Per Sheet",
+      "prices": [
+        "-Select-",
+        "18\" x 18\" x .250\"__ $276.00",
+        "18\" x 36\" x .250\"__ $552.00",
+        "18\" x 18\" x .276\"__ $319.00",
+        "18\" x 36\" x .276\"__ $638.00",
+        "18\" x 36\" x .0625\"__ $117.00",
+        "18\" x 18\" x .0625\"__ $233.00"
+      ]
+    },
+    {
+      "id": "cop-2",
+      "aspect": "horizontal",
+      "title": "GPC® MiraCopper® , Aquamulsion® Negative Resist Coated",
+      "imagePath": "images/products/copper/copper-neg-resist.jpg",
+      "thumbnailPath": "images/products/copper/copper-neg-resist.jpg",
+      "description": {
+        "text": "GPC\u00AE MiraCopper\u00AE, AquaMulsion\u00AE Negative Resist Coated plates are some of the best in the industry. AquaMulsion Negative Resist is formulated to work with our GPC AquaMulsion Negative Developer, a special water soluble developer.<br><br>UEI constantly works to improve our product quality. Unlike many negative resist plates on the market, our negative resist plates can hold fine line resolutions equally as well as positive resist plates!\nAll our coated plates can handle resolutions up to 25,000 lines per inch. And with UEI’s AquaMulsion coated plates, you no longer have to worry about short shelf lives. Our negative resist coated plates have a coated shelf life of 1 year! <br><br>These products have Perfect Parallelism with +/- .0004\"/.010mm.<br><br>",
+        "sizes": [
+          "Available in the following Sizes:<br><br>18\" x 18\" x .250\" (457.2mm x 457.2mm x 6.35mm)<br>18\" x 36\" x .250\" (457.2mm x 914.4mm x 6.35mm)<br>18\" x 18\" x .276\" (457.2mm x 457.2mm x 7mm)<br>18\" x 36\" x .276\" (457.2mm x 914.4mm x 7mm)<br>18\" x 36\" x .0625\" (16 gauge) (457.2mm x 914.4mm x 1.59mm)"
+        ]
+      },
+      "prodNum": "Product #: IF-CPR",
+      "priceType": "Price Per Sheet",
+      "prices": [
+        "-Select-",
+        "18\" x 18\" x .250\"__ $268.00",
+        "18\" x 36\" x .250\"__ $535.00",
+        "18\" x 18\" x .276\"__ $319.00",
+        "18\" x 36\" x .276\"__ $638.00",
+        "18\" x 36\" x .0625\"__ $233.00"
+      ]
+    },
+    {
+      "id": "cop-3",
+      "aspect": "horizontal",
+      "title": "GPC® MiraCopper® , Uncoated",
+      "imagePath": "images/products/copper/copper-uncoated-sm.jpg",
+      "thumbnailPath": "images/products/copper/copper-uncoated-sm.jpg",
+      "description": {
+        "text": "For all your specialized needs, UEI also offers our same quality copper plates in an raw (uncoated) version.<br><br>",
+        "sizes": [
+          "Available in the following Sizes:<br><br>18\" x 18\" x .276\" (457.2mm x 457.2mm x 7mm)<br>18\" x 36\" x .276\" (457.2mm x 914.4mm x 7mm)<br>18\" x 36\" x .0625\" (16 gauge) (457.2mm x 914.4mm x 1.59mm)<br>18\" x 18\" x .0625\" (16 gauge) (457.2mm x 457.2mm x 1.59mm)"
+        ]
+      },
+      "prodNum": "Product #: IR-CPR",
+      "priceType": "Price Per Sheet",
+      "prices": [
+        "-Select-",
+        "18\" x 18\" x .276\"__ $282.29",
+        "18\" x 36\" x .276\"__ $569.00",
+        "18\" x 36\" x .0625\"__ $180.00",
+        "18\" x 18\" x .0625\"__ $85.00"
+      ]
+    },
+    {
+      "id": "cop-4",
+      "aspect": "horizontal",
+      "title": "GPC® Combo Sink with Crate",
+      "imagePath": "images/products/copper/combo-sink.jpg",
+      "thumbnailPath": "images/products/copper/combo-sink.jpg",
+      "description": {
+        "text": "Our combo sink is specially designed for developing exposed coated plates. The combo sink evenly sprays AquaMulsion® developer over the entire surface of the plate to produce a consistently developed plate that’s ready to be etched.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IF-MAC7302",
+      "priceType": "Call for Price",
+      "prices": [
+        "Call for Price"
+      ]
+    },
+    {
+      "id": "cop-5",
+      "aspect": "horizontal",
+      "title": "GPC® AquaMulsion® Positive Developer - 1 Gallon",
+      "imagePath": "images/products/copper/pos-developer-med.jpg",
+      "thumbnailPath": "images/products/copper/pos-developer-med.jpg",
+      "description": {
+        "text": "GPC® AquaMulsion® Positive Developer is specially designed to work with our GPC® AquaMulsion® Positive resist coated plates.<br><br>Unlike traditional developers which contained harsh solvents, AquaMulsion® developer is composed of a mild alkaline solution which reacts with components on the plate. Our developer is safer for you and the environment.<br><br>*Due to Transportation Regulations this product will only be shipped via FedEx®, Motor Freight or Ocean Freight.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IR-CHE7365",
+      "priceType": "Price Per Package",
+      "prices": [
+        "$1.97"
+      ]
+    },
+    {
+      "id": "cop-6",
+      "aspect": "horizontal",
+      "title": "GPC® AquaMulsion® Positive Developer - 5 Gallon",
+      "imagePath": "images/products/copper/pos-developer-med.jpg",
+      "thumbnailPath": "images/products/copper/pos-developer-med.jpg",
+      "description": {
+        "text": "GPC® AquaMulsion® Positive Developer is specially designed to work with our GPC® AquaMulsion® Positive resist coated plates.<br><br>Unlike traditional developers which contained harsh solvents, AquaMulsion® developer is composed of a mild alkaline solution which reacts with components on the plate. Our developer is safer for you and the environment.<br><br>*Due to Transportation Regulations this product will only be shipped via FedEx®, Motor Freight or Ocean Freight.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IR-CHE7366",
+      "priceType": "Price Per Package",
+      "prices": [
+        "$4.10"
+      ]
+    },
+    {
+      "id": "cop-7",
+      "aspect": "horizontal",
+      "title": "GPC® AquaMulsion® Positive Developer - 10 Gallon",
+      "imagePath": "images/products/copper/pos-developer-med.jpg",
+      "thumbnailPath": "images/products/copper/pos-developer-med.jpg",
+      "description": {
+        "text": "GPC® AquaMulsion® Positive Developer is specially designed to work with our GPC® AquaMulsion® Positive resist coated plates.<br><br>Unlike traditional developers which contained harsh solvents, AquaMulsion® developer is composed of a mild alkaline solution which reacts with components on the plate. Our developer is safer for you and the environment.<br><br>*Due to Transportation Regulations this product will only be shipped via FedEx®, Motor Freight or Ocean Freight.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IR-CHE7367",
+      "priceType": "Price Per Package",
+      "prices": [
+        "$6.43"
+      ]
+    },
+    {
+      "id": "cop-8",
+      "aspect": "horizontal",
+      "title": "Film Sensitivity Scale",
+      "imagePath": "images/products/copper/film-scale-med.jpg",
+      "thumbnailPath": "images/products/copper/film-scale-sm.jpg",
+      "description": {
+        "text": "The Film Sensitivity Scale is used to check the exposure of coated plates. This industry standard scale is made of a reusable piece of translucent film.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO3464",
+      "priceType": "Price For Each",
+      "prices": [
+        "$18.92"
+      ]
+    },
+    {
+      "id": "cop-9",
+      "aspect": "horizontal",
+      "title": "Camera Wipes (140 Sheets per box)",
+      "imagePath": "images/products/copper/camera-wipes-med.jpg",
+      "thumbnailPath": "images/products/copper/camera-wipes-sm.jpg",
+      "description": {
+        "text": "These handy disposable wipes are soft, gentle, absorbent low-lint wipes for light-duty tasks. They easily pick up liquid and dust without scratching fragile surfaces. These economical task wipers are non-abrasive and are considered safe for use on most delicate surfaces. Made from 100% virgin wood fiber.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-ART1533",
+      "priceType": "Price Per Box",
+      "prices": [
+        "$12.24"
+      ]
+    },
+    {
+      "id": "cop-10",
+      "aspect": "horizontal",
+      "title": "Para Paque Marker",
+      "imagePath": "images/products/copper/red-marker-med.jpg",
+      "thumbnailPath": "images/products/copper/red-marker-sm.jpg",
+      "description": {
+        "text": "Para Paque Markers are fast drying and waterproof. High Density ensures complete light blockage. The push and flow point allows the proper amount of ink to move into the point. Super density means that one application will cover completely and the ink dries in just seconds. Perfect for film or photo negatives.<br><br>",
+        "sizes": [
+          "Available in the following Sizes:<br><br>Fine tip<br>Broad tip"
+        ]
+      },
+      "prodNum": "Product #: IS-ART",
+      "priceType": "Price For Each",
+      "prices": [
+        "-Select-",
+        "Fine-Tip__$32.44",
+        "Broad-Tip__$22.26"
+      ]
+    },
+    {
+      "id": "cop-11",
+      "aspect": "horizontal",
+      "title": "Paint Brush for Block-Out",
+      "imagePath": "images/products/copper/blockout-brush-med.jpg",
+      "thumbnailPath": "images/products/copper/blockout-brush-sm.jpg",
+      "description": {
+        "text": "A fine point paint brush, perfect for touch-ups to plates before etching.<br><br>",
+        "sizes": [
+          "Available in the following sizes: <br><br>Size 0<br>Size 00<br>Size 000<br>Size 8<br>Size 10"
+        ]
+      },
+      "prodNum": "Product #: IS-ART",
+      "priceType": "Price For Each",
+      "prices": [
+        "-Select-",
+        "Size 000__$8.90",
+        "Size 00__$8.90",
+        "Size 0__$9.47",
+        "Size 10__$13.01",
+        "Size 8__$9.74"
+      ]
+    },
+    {
+      "id": "cop-12",
+      "aspect": "horizontal",
+      "title": "Blades (100 count)",
+      "imagePath": "images/products/copper/blades.jpg",
+      "thumbnailPath": "images/products/copper/blades.jpg",
+      "description": {
+        "text": "Sharp disposable blades fit into standard tool handle for small detail cutting. They are utilized in hand-trimming process of make-ready procedure. (100 per box)<br><br>",
+        "sizes": [
+          "Available in the following sizes:<br><br>Pointed tip<br>Flat tip"
+        ]
+      },
+      "prodNum": "Product #: IS-ART",
+      "priceType": "Price Per Box",
+      "prices": [
+        "-Select-",
+        "Pointed tip__$46.47",
+        "Flat tip__$46.47"
+      ]
+    },
+    {
+      "id": "cop-13",
+      "aspect": "horizontal",
+      "title": "Triangle for Scribing",
+      "imagePath": "images/products/copper/triangle-med.jpg",
+      "thumbnailPath": "images/products/copper/triangle-sm.jpg",
+      "description": {
+        "text": "Solid clear plastic triangle. 30/60 Degrees, 18\" (457.2mm).<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-ART1547",
+      "priceType": "Price For Each",
+      "prices": [
+        "$11.69"
+      ]
+    },
+    {
+      "id": "cop-14",
+      "aspect": "horizontal",
+      "title": "See through Graphic Ruler",
+      "imagePath": "images/products/copper/graphic-ruler-med.jpg",
+      "thumbnailPath": "images/products/copper/graphic-ruler-sm.jpg",
+      "description": {
+        "text": "The perfect measuring tool, this durable clear plastic ruler allows you to see the object you are measuring through the ruler resulting in exceptionally precise measurements. 18\" long (457.2 mm), includes inches and centimeters.<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-ART1545",
+      "priceType": "Price For Each",
+      "prices": [
+        "$6.71"
+      ]
+    },
+    {
+      "id": "cop-15",
+      "aspect": "horizontal",
+      "title": "Plastic 10X Eye Loupe",
+      "imagePath": "images/products/copper/eye-loupe-med.jpg",
+      "thumbnailPath": "images/products/copper/eye-loupe-sm.jpg",
+      "description": {
+        "text": "This is an affordable professional loupe, perfect for careful examination of fine details in engravings, press proofs or any other object.<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2027",
+      "priceType": "Price For Each",
+      "prices": [
+        "$42.29"
+      ]
+    },
+    {
+      "id": "cop-17",
+      "aspect": "horizontal",
+      "title": "GPC® Digital Copper Analyzer",
+      "imagePath": "images/products/copper/digital-copper-analyzer-med.jpg",
+      "thumbnailPath": "images/products/copper/digital-copper-analyzer-sm.jpg",
+      "description": {
+        "text": "The GPC® Digital Copper Analyzer measures the amount of copper in a ferric chloride etch bath. Checking your etch bath with the digital copper analyzer is faster and easier than weighing plates before and after etching. Comes with a sturdy plastic carrying case, 6 glass sample jars and a standard AC adapter.<br><br>When ordering this product, IS-PRO1673, IS-PRO3472, IS-PRO1674, IR-CHE7469 & IS-PRO3469 are also needed.<br><br>",
+        "sizes": [
+          "Available in following formats:<br><br>Ounces<br>Grams"
+        ]
+      },
+      "prodNum": "Product #: IS-SYS",
+      "priceType": "Price For Each",
+      "prices": [
+        "$606.59"
+      ]
+    },
+    {
+      "id": "cop-19",
+      "aspect": "horizontal",
+      "title": "Baume' Hydrometer",
+      "imagePath": "images/products/copper/hydrometer-med.jpg",
+      "thumbnailPath": "images/products/copper/hydrometer-sm.jpg",
+      "description": {
+        "text": "Use this sturdy Pyrex tool to measure the density of ferric chloride to ensure that you have the correct concentrations for etching. Uses a Baume scale.<br><br>",
+        "sizes": []
+      },
+      "sizes": [],
+      "prodNum": "Product #: IS-PRO3468",
+      "priceType": "Price For Each",
+      "prices": [
+        "$90.46"
+      ]
+    },
+    {
+      "id": "cop-20",
+      "aspect": "horizontal",
+      "title": "Depth Gauge w/ Storage Case",
+      "imagePath": "images/products/copper/gauge-sm.jpg",
+      "thumbnailPath": "images/products/copper/gauge-sm.jpg",
+      "description": {
+        "text": "A Depth Gauge accurately measures etching and engraving depth on dies. Simple and quick to use, this tool is indispensable for checking that a consistent depth is being achieved. Comes with a sturdy plastic storage case.<br><br>",
+        "sizes": [
+          "Available in English and Metric."
+        ]
+      },
+      "prodNum": "Product #: IS-PRO",
+      "priceType": "Price For Each",
+      "prices": [
+        "$677.25"
+      ]
+    },
+    {
+      "id": "cop-21",
+      "aspect": "horizontal",
+      "title": "GPC® Etching Scales (48 per plate)",
+      "imagePath": "images/products/copper/scales-med.jpeg",
+      "thumbnailPath": "images/products/copper/scales-sm.jpg",
+      "description": {
+        "text": "GPC® etching scales are used to measure the quantity of additives present in your etch bath. Using the etching scales will allow you to determine the correct amount of GPC® Stabilizer to add to your etch bath to achieve a stabilized bath. A stabilized bath will etch plates with a correct bevel, and avoid undercutting the image. (48 etching scales per plate)<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IF-CPR7190",
+      "priceType": "Price Per Plate",
+      "prices": [
+        "$131.00"
+      ]
+    },
+    {
+      "id": "cop-22",
+      "aspect": "horizontal",
+      "title": "GPC® Calibrated Ferric Chloride",
+      "imagePath": "images/products/copper/ferric-chloride-blue-med.jpg",
+      "thumbnailPath": "images/products/copper/ferric-chloride-blue-sm.jpg",
+      "description": {
+        "text": "Our GPC® Calibrated Ferric Chloride is specially formulated to be the most versatile and simple to use copper etching bath on the market today! It can be used for a wide variety of etching uses – half tones, bold and fine lines, deep and shallow etching. With GPC® Calibrated Ferric Chloride, you can etch all these in one bath, with no need to reformulate the bath for each type of etching. We’ve taken the guesswork out of etching for you.<br><br>",
+        "sizes": [
+          "55 Gallons (208.2 Liters)"
+        ]
+      },
+      "prodNum": "Product #: IR-CHE703",
+      "priceType": "Price Per Gallon",
+      "prices": [
+        "$2.13"
+      ]
+    },
+    {
+      "id": "cop-23",
+      "aspect": "horizontal",
+      "title": "GPC® Uncalibrated 30 Baume Ferric Chloride",
+      "imagePath": "images/products/copper/ferric-chloride-white-med.jpg",
+      "thumbnailPath": "images/products/copper/ferric-chloride-white-sm.jpg",
+      "description": {
+        "text": "GPC® Uncalibrated 30 degree Baume Ferric Chloride contains no copper or additives. It is intended for controlled etching, and special applications. It can also be used for etching brass.<br><br>",
+        "sizes": [
+          "55 Gallons (208.2 Liters)"
+        ]
+      },
+      "prodNum": "Product #: IS-CHE7301",
+      "priceType": "Price Per Gallon",
+      "prices": [
+        "$4.88"
+      ]
+    },
+    {
+      "id": "cop-25",
+      "aspect": "horizontal",
+      "title": "GPC® Stabilizer - 5 Grams",
+      "imagePath": "images/products/copper/stabilizer-med.jpg",
+      "thumbnailPath": "images/products/copper/stabilizer-sm.jpg",
+      "description": {
+        "text": "Over time, the additives in an etch bath necessary to maintain the angle of the bevel will break down and need to be replenished. GPC® Stabilizer is pre-measured and pre-mixed to allow you to quickly and easily stabilize your calibrated ferric chloride etching bath.<br><br>*Due to Transportation Regulations this product will only be shipped via FedEx®, Motor Freight or Ocean Freight.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IR-CHE7320",
+      "priceType": "Price Per Package",
+      "prices": [
+        "$3.23"
+      ]
+    },
+    {
+      "id": "cop-26",
+      "aspect": "horizontal",
+      "title": "GPC® Stabilizer - 10 Grams",
+      "imagePath": "images/products/copper/stabilizer-med.jpg",
+      "thumbnailPath": "images/products/copper/stabilizer-sm.jpg",
+      "description": {
+        "text": "Over time, the additives in an etch bath necessary to maintain the angle of the bevel will break down and need to be replenished. GPC® Stabilizer is pre-measured and pre-mixed to allow you to quickly and easily stabilize your calibrated ferric chloride etching bath.<br><br>*Due to Transportation Regulations this product will only be shipped via FedEx®, Motor Freight or Ocean Freight.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IR-CHE7321",
+      "priceType": "Price Per Package",
+      "prices": [
+        "$3.63"
+      ]
+    },
+    {
+      "id": "cop-27",
+      "aspect": "horizontal",
+      "title": "GPC® Stabilizer - 15 Grams",
+      "imagePath": "images/products/copper/stabilizer-med.jpg",
+      "thumbnailPath": "images/products/copper/stabilizer-sm.jpg",
+      "description": {
+        "text": "Over time, the additives in an etch bath necessary to maintain the angle of the bevel will break down and need to be replenished. GPC® Stabilizer is pre-measured and pre-mixed to allow you to quickly and easily stabilize your calibrated ferric chloride etching bath.<br><br>*Due to Transportation Regulations this product will only be shipped via FedEx®, Motor Freight or Ocean Freight.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IR-CHE7322",
+      "priceType": "Price Per Package",
+      "prices": [
+        "$4.26"
+      ]
+    },
+    {
+      "id": "cop-28",
+      "aspect": "horizontal",
+      "title": "3/8\" Endmill (9.525mm)",
+      "imagePath": "images/products/copper/3_8-endmill-med.jpg",
+      "thumbnailPath": "images/products/copper/3_8-endmill-sm.jpg",
+      "description": {
+        "text": "Used on a milling machine to relieve excess background around copper and brass dies. (No Bevel)",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO3304",
+      "priceType": "Price Per Endmill",
+      "prices": [
+        "$26.71"
+      ]
+    },
+    {
+      "id": "cop-29",
+      "aspect": "horizontal",
+      "title": "1/2\" Endmill (12.75mm)",
+      "imagePath": "images/products/copper/1_2-endmill-med.jpg",
+      "thumbnailPath": "images/products/copper/1_2-endmill-sm.jpg",
+      "description": {
+        "text": "Used on a milling machine to relieve excess background around copper and brass dies. (No Bevel)",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO3306",
+      "priceType": "Price Per Endmill",
+      "prices": [
+        "$38.21"
+      ]
+    },
+    {
+      "id": "cop-30",
+      "aspect": "horizontal",
+      "title": "Sanding Disk Holder 1/2\" (12.7mm)",
+      "imagePath": "images/products/copper/disc-holder-med.jpg",
+      "thumbnailPath": "images/products/copper/disc-holder-sm.jpg",
+      "description": {
+        "text": "Reusable bit for use with air grinders or electric grinders. Attach replaceable sanding disks to the holder for precision sanding of small areas.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2470",
+      "priceType": "Price For Each",
+      "prices": [
+        "$2.57"
+      ]
+    },
+    {
+      "id": "cop-31",
+      "aspect": "horizontal",
+      "title": "Sanding Disk Holder 3/4\" (19.05mm)",
+      "imagePath": "images/products/copper/disc-holder-med.jpg",
+      "thumbnailPath": "images/products/copper/disc-holder-sm.jpg",
+      "description": {
+        "text": "Reusable bit for use with air grinders or electric grinders. Attach replaceable sanding disks to the holder for precision sanding of small areas.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2472",
+      "priceType": "Price For Each",
+      "prices": [
+        "$5.84"
+      ]
+    },
+    {
+      "id": "cop-32",
+      "aspect": "horizontal",
+      "title": "Sanding Disk Holder 1\" (25.4mm)",
+      "imagePath": "images/products/copper/disc-holder-med.jpg",
+      "thumbnailPath": "images/products/copper/disc-holder-sm.jpg",
+      "description": {
+        "text": "Reusable bit for use with air grinders or electric grinders. Attach replaceable sanding disks to the holder for precision sanding of small areas.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2474",
+      "priceType": "Price For Each",
+      "prices": [
+        "$4.73"
+      ]
+    },
+    {
+      "id": "cop-33",
+      "aspect": "horizontal",
+      "title": "Sanding Disk Holder 1 1/2\" (38.1mm)",
+      "imagePath": "images/products/copper/disc-holder-med.jpg",
+      "thumbnailPath": "images/products/copper/disc-holder-sm.jpg",
+      "description": {
+        "text": "Reusable bit for use with air grinders or electric grinders. Attach replaceable sanding disks to the holder for precision sanding of small areas.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2475",
+      "priceType": "Price For Each",
+      "prices": [
+        "$5.84"
+      ]
+    },
+    {
+      "id": "cop-34",
+      "aspect": "horizontal",
+      "title": "Sanding Disks 1/2\" (12.7mm)",
+      "imagePath": "images/products/copper/discs-med.jpg",
+      "thumbnailPath": "images/products/copper/discs-sm.jpg",
+      "description": {
+        "text": "Sanding Disks are great multi-purpose tools. They are useful for smoothing sculptured brass dies, especially on flat areas of the die. Sanding Disks are also ideal for removing CNC tool marks on dies. For hand finishing, they are great for sculpting, blending and deburring holes and edges. Used with an air grinder or electric grinder. Available in a variety of sizes and grits for a wide variety of applications.",
+        "sizes": []
+      },
+      "prodNum": "Product #: (not listed)",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "50 Grit__$0.45",
+        "120 Grit__$0.45",
+        "150 Grit__$0.45",
+        "180 Grit__$0.45",
+        "240 Grit__$0.45",
+        "320 Grit__$0.45"
+      ]
+    },
+    {
+      "id": "cop-35",
+      "aspect": "horizontal",
+      "title": "Sanding Disks 3/4\" (19.05mm)",
+      "imagePath": "images/products/copper/discs-med.jpg",
+      "thumbnailPath": "images/products/copper/discs-sm.jpg",
+      "description": {
+        "text": "Sanding Disks are great multi-purpose tools. They are useful for smoothing sculptured brass dies, especially on flat areas of the die. Sanding Disks are also ideal for removing CNC tool marks on dies. For hand finishing, they are great for sculpting, blending and deburring holes and edges. Used with an air grinder or electric grinder. Available in a variety of sizes and grits for a wide variety of applications.",
+        "sizes": []
+      },
+      "prodNum": "Product #: (not listed)",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "80 Grit__$0.45",
+        "150 Grit__$0.45",
+        "320 Grit__$0.45"
+      ]
+    },
+    {
+      "id": "cop-36",
+      "aspect": "horizontal",
+      "title": "Sanding Disks 1\" (25.4mm)",
+      "imagePath": "images/products/copper/discs-med.jpg",
+      "thumbnailPath": "images/products/copper/discs-sm.jpg",
+      "description": {
+        "text": "Sanding Disks are great multi-purpose tools. They are useful for smoothing sculptured brass dies, especially on flat areas of the die. Sanding Disks are also ideal for removing CNC tool marks on dies. For hand finishing, they are great for sculpting, blending and deburring holes and edges. Used with an air grinder or electric grinder. Available in a variety of sizes and grits for a wide variety of applications.",
+        "sizes": []
+      },
+      "prodNum": "Product #: (not listed)",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "80 Grit__$0.45",
+        "150 Grit__$0.45",
+        "180 Grit__$0.45",
+        "240 Grit__$0.45",
+        "320 Grit__$0.45",
+        "400 Grit__$0.45"
+      ]
+    },
+    {
+      "id": "cop-37",
+      "aspect": "horizontal",
+      "title": "Sanding Disks 1 1/2\" (38.1mm)",
+      "imagePath": "images/products/copper/discs-med.jpg",
+      "thumbnailPath": "images/products/copper/discs-sm.jpg",
+      "description": {
+        "text": "Sanding Disks are great multi-purpose tools. They are useful for smoothing sculptured brass dies, especially on flat areas of the die. Sanding Disks are also ideal for removing CNC tool marks on dies. For hand finishing, they are great for sculpting, blending and deburring holes and edges. Used with an air grinder or electric grinder. Available in a variety of sizes and grits for a wide variety of applications.",
+        "sizes": []
+      },
+      "prodNum": "Product #: (not listed)",
+      "priceType": "Price Per Each",
+      "prices": [
+        "-Select-",
+        "80 Grit__$0.45",
+        "180 Grit__$0.45",
+        "320 Grit__$0.45"
+      ]
+    },
+    {
+      "id": "cop-38",
+      "aspect": "horizontal",
+      "title": "Brass Block Brush 916",
+      "imagePath": "images/products/copper/brass-block-brush-med.jpg",
+      "thumbnailPath": "images/products/copper/brass-block-brush-sm.jpg",
+      "description": {
+        "text": "Great durable brush for cleaning dies and smoothing down sharp edges.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO1014",
+      "priceType": "Price Per Each",
+      "prices": [
+        "$20.03"
+      ]
+    },
+    {
+      "id": "cop-39",
+      "aspect": "horizontal",
+      "title": "Nylon Block Brush 916",
+      "imagePath": "images/products/copper/nylon-block-brush-med.jpg",
+      "thumbnailPath": "images/products/copper/nylon-block-brush-sm.jpg",
+      "description": {
+        "text": "Great durable brush for cleaning dies and many other objects.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO1048",
+      "priceType": "Price Per Each",
+      "prices": [
+        "$13.36"
+      ]
+    },
+    {
+      "id": "cop-40",
+      "aspect": "horizontal",
+      "title": "Brass Bristle Brush 6\" (152.4mm)",
+      "imagePath": "images/products/copper/brass-brush-med.jpg",
+      "thumbnailPath": "images/products/copper/brass-brush-sm.jpg",
+      "description": {
+        "text": "Great durable brush for cleaning dies and smoothing down sharp edges.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO1048",
+      "priceType": "Price Per Each",
+      "prices": [
+        "$2.23"
+      ]
+    },
+    {
+      "id": "cop-41",
+      "aspect": "horizontal",
+      "title": "Steel Bristle Brush 6\" (152.4mm)",
+      "imagePath": "images/products/copper/steel-brush-med.jpg",
+      "thumbnailPath": "images/products/copper/steel-brush-sm.jpg",
+      "description": {
+        "text": "Great durable brush for cleaning dies and smoothing down sharp edges.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2504",
+      "priceType": "Price Per Each",
+      "prices": [
+        "$2.23"
+      ]
+    },
+    {
+      "id": "cop-42",
+      "aspect": "horizontal",
+      "title": "Tool Handle - For Hand Finishing",
+      "imagePath": "images/products/copper/tool-handle-med.jpg",
+      "thumbnailPath": "images/products/copper/tool-handle-sm.jpg",
+      "description": {
+        "text": "This wooden handle securely holds a variety of knife tools for hand engraving. It is designed to be comfortable to hold and easy to grip for precision work.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO1995",
+      "priceType": "Price Per Each",
+      "prices": [
+        "$3.00"
+      ]
+    },
+    {
+      "id": "cop-43",
+      "aspect": "horizontal",
+      "title": "Hand Finishing Tool",
+      "imagePath": "images/products/copper/finishing-tool-med.jpg",
+      "thumbnailPath": "images/products/copper/finishing-tool-sm.jpg",
+      "description": {
+        "text": "Metal blade for making your own hand engraving tool. Sharpen the knife blade and insert into wooden tool handle to create a versatile tool for precision hand engraving brass plates.<br><br>",
+        "sizes": [
+          "Available in the following sizes:<br><br>Knife #1, 2, 3<br>Flat #36, 37, 38, 39, 40<br>Round #50, 51, 53, 55, 57, 59<br>Tool #61, 63"
+        ]
+      },
+      "prodNum": "Product #: IS-PRO",
+      "priceType": "Price For Each",
+      "prices": [
+        "$19.25"
+      ]
+    },
+    {
+      "id": "cop-44",
+      "aspect": "horizontal",
+      "title": "Optivisor",
+      "imagePath": "images/products/copper/optivisor-med.jpg",
+      "thumbnailPath": "images/products/copper/optivisor-sm.jpg",
+      "description": {
+        "text": "Comfortable head-unit for hands-free magnification. Great for working on those fine detail projects for an extended period of time.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2510",
+      "priceType": "Price For Each",
+      "prices": [
+        "$58.10"
+      ]
+    },
+    {
+      "id": "cop-45",
+      "aspect": "horizontal",
+      "title": "Replacement Lens - Optivisor",
+      "imagePath": "images/products/copper/optivisor-lens-med.jpg",
+      "thumbnailPath": "images/products/copper/optivisor-lens-sm.jpg",
+      "description": {
+        "text": "Handy replacement lens for Optivisors. Great if lenses become scratched or stained.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO2509",
+      "priceType": "Price For Each",
+      "prices": [
+        "$24.49"
+      ]
+    },
+    {
+      "id": "cop-100",
+      "aspect": "vertical",
+      "title": "GPC® Aquamulsion® Positive Photoresist",
+      "imagePath": "images/products/copper/aquamulsion-med.jpg",
+      "thumbnailPath": "images/products/copper/aquamulsion-sm.jpg",
+      "description": {
+        "text": "The same resist that we use on our coated metal is also available in a bottle. AquaMulsion\u00AE Positive Photoresist is a necessary product for double etch processes, such as refractive etching. AquaMulsion\u00AE Positive Resist is formulated to work with our GPC\u00AE AquaMulsion\u00AE Positive Developer, a special water soluble developer.<br><br>UEI has worked to overcome the challenges that positive resists traditionally have had in the past. AquaMulsion\u00AE Positive Resist Coatings aren’t brittle or tricky to work with, and still maintain the exceptional resolution and fine line capabilities you expect from a positive resist.<br><br>Both our positive and negative resists can handle resolutions up to 25,000 lines per inch and have a 1 year shelf life in the bottle. They are ideally formulated for a spray coat process. Contact us for information on formulating photoresist for roller coating.<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-CHE7305",
+      "priceType": "Price Per Liter",
+      "prices": [
+        "$267.12"
+      ]
+    },
+    {
+      "id": "cop-101",
+      "aspect": "vertical",
+      "title": "GPC® Aquamulsion® Negative Photoresist",
+      "imagePath": "images/products/copper/aquamulsion-med.jpg",
+      "thumbnailPath": "images/products/copper/aquamulsion-sm.jpg",
+      "description": {
+        "text": "The same resist that we use on our coated metal is also available in a bottle. AquaMulsion® Negative Photoresist is a necessary product for double etch processes, such as refractive etching. ® Negative Resist is formulated to work with our GPC® AquaMulsion® Negative Developer, a special water soluble developer.<br><br>UEI constantly works to improve our product quality. Unlike many negative resists on the market, our negative resist can hold fine line resolutions equally as well as positive resists!<br><br>All our coated plates can handle resolutions up to 25,000 lines per inch. And with UEI’s AquaMulsion® coated plates, you no longer have to worry about short shelf lives. Our negative resist coated plates have a coated shelf life of 1 year!<br><br>Our AquaMulsion® Negative Photoresist is ideally formulated for a spray coat process. Contact us for information on formulating photoresist for roller coating.<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-CHE8305",
+      "priceType": "Price Per Liter",
+      "prices": [
+        "$267.12"
+      ]
+    },
+    {
+      "id": "cop-102",
+      "aspect": "vertical",
+      "title": "GPC® Block Out Liquid",
+      "imagePath": "images/products/copper/blockout-liquid-med.jpg",
+      "thumbnailPath": "images/products/copper/blockout-liquid-sm.jpg",
+      "description": {
+        "text": "Using GPC® Block Out Liquid will significantly extend the life of your etch bath. Before etching, cover large open areas on your plate with block out liquid. After etching, these areas can be milled away. Block out liquid can also be used for fine-line touch ups to plates before etching – apply with a paint brush.",
+        "sizes": [
+          "250 ml",
+          "8.453 fluid ounces"
+        ]
+      },
+      "prodNum": "Product #: IR-CHE7378",
+      "priceType": "Price Per Jar, 250 ml, 8.453 fluid ounces",
+      "prices": [
+        "$62.14"
+      ]
+    },
+    {
+      "id": "cop-103",
+      "aspect": "vertical",
+      "title": "GPC® Block Out Marker 18mm, 0.71\"",
+      "imagePath": "images/products/copper/blockout-marker-med.jpg",
+      "thumbnailPath": "images/products/copper/blockout-marker-sm.jpg",
+      "description": {
+        "text": "Using GPC® Block Out Marker will significantly extend the life of your etch bath. Before etching, cover large open areas on your plate with block out. After etching, these areas can be milled away. The Block Out Marker makes applying block out quick and easy, and ensures even coverage. It also reduces clean-up time. No messy paintbrushes to wash!",
+        "sizes": []
+      },
+      "prodNum": "Product #: IR-CHE7377",
+      "priceType": "Price For Each",
+      "prices": [
+        "$25.70"
+      ]
+    },
+    {
+      "id": "cop-104",
+      "aspect": "vertical",
+      "title": "GPC® System 20/40 Etching Machine",
+      "imagePath": "images/products/copper/etching-machine-med.jpg",
+      "thumbnailPath": "images/products/copper/etching-machine-sm.jpg",
+      "description": {
+        "text": "Our 20/40 etching machine is one of the best etching machines in the industry. Perfect for larger sheet sizes, it consistently creates the finest etched plates available.<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IF-MAC7300",
+      "priceType": "Call for price",
+      "prices": [
+        "Call for price"
+      ]
+    },
+    {
+      "id": "cop-105",
+      "aspect": "vertical",
+      "title": "Graduated Cylinder (100 ml.)",
+      "imagePath": "images/products/copper/cylinder-med.jpg",
+      "thumbnailPath": "images/products/copper/cylinder-sm.jpg",
+      "description": {
+        "text": "High-quality Pyrex graduated cylinder, perfect for precisely measuring a variety of liquids.<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO1673",
+      "priceType": "Price For Each",
+      "prices": [
+        "$74.82"
+      ]
+    },
+    {
+      "id": "cop-106",
+      "aspect": "vertical",
+      "title": "Antifoam & 2 ml. Eye Dropper",
+      "imagePath": "images/products/copper/antifoam-med.jpg",
+      "thumbnailPath": "images/products/copper/antifoam-sm.jpg",
+      "description": {
+        "text": "Antifoam ensures that uniform etching will not be hindered by foam building up in the etch bath. Quickly and easily controls foam, without impairing etching quality.<br><br>Comes with 1 eye dropper and 1 - 4oz bottle.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IR-CHE7371",
+      "priceType": "Price For Each",
+      "prices": [
+        "$2.66"
+      ]
+    }
+  ]
+}

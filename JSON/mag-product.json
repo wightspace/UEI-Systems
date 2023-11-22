@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": "mag-1",
+      "aspect": "horizontal",
+      "title": "MiraMag® Negative Resist Coated",
+      "imagePath": "images/products/mag/mag-neg-resist-sm.jpg",
+      "thumbnailPath": "images/products/mag/mag-neg-resist-sm.jpg",
+      "description": {
+        "text": "Mira®Mag, Negative Resist Coated magnesium plates are some of the best in the industry.<br><br>UEI constantly works to improve our product quality. Unlike many negative resist magnesium plates on the market, our negative resist plates can hold fine line resolutions equally as well as positive resist plates!<br><br>",
+        "sizes": [
+          "Available in the following sizes:<br>",
+          "18\" x 24\" x .276\" (457.2mm x 609.6mm x 7.00mm) - 8 Sheets per case<br>",
+          "18\" x 24\" x .250\" (457.2mm x 609.6mm x 6.35mm) - 8 Sheets per case<br>",
+          "18\" x 24\" x .153\"/11pt. (457.2mm x 609.6mm x 3.9mm) - 12 Sheets per case<br>",
+          "18\" x 24\" x .064\"/16 gauge  (457.2mm x 609.6mm x 1.6mm) - 20 Sheets per case<br>",
+          "24\" x 36\" x .276\" (609.6mm x 914.4mm x 7.00mm) - 8 Sheets per case<br>",
+          "24\" x 36\" x .250\" (609.6mm x 914.4mm x 6.35mm) - 8 Sheets per case<br>",
+          "24\" x 36\" x .153\"/11pt. (609.6mm x 914.4mm x 3.9mm) - 12 Sheets per case<br>",
+          "24\" x 36\" x .118\" (609.6mm x 914.4mm x 3mm) - 8 Sheets per case<br>",
+          "24\" x 36\" x .078\" (609.6mm x 914.4mm x 2mm) - 8 Sheets per case<br>"
+        ]
+      },
+      "prodNum": "Product #: IF-MAG",
+      "priceType": "Price Per Sheet",
+      "prices": [
+        "Call for price"
+      ]
+    },
+    {
+      "id": "mag-2",
+      "aspect": "horizontal",
+      "title": "MiraMag® AquaMulsion II Developer- Five Gallon Packet",
+      "imagePath": "images/products/mag/aquamulsion-packet-sm.jpg",
+      "thumbnailPath": "images/products/mag/aquamulsion-packet-sm.jpg",
+      "description": {
+        "text": "Due to Transportation Regulations this product will only be shipped via FedEx Ground , Motor Freight or Ocean Freight.<br><br>",
+        "sizes": [
+          "Product Data Sheets are available by emailing our team at info@ueisystems.com"
+        ]
+      },
+      "prodNum": "Product #: IR-CHE8566",
+      "priceType": "Price Per Packet",
+      "prices": [
+        "$18.43"
+      ]
+    },
+    {
+      "id": "mag-3",
+      "aspect": "horizontal",
+      "title": "MiraMag® AquaMulsion II Developer- One Gallon Packet",
+      "imagePath": "images/products/mag/aquamulsion-packet-sm.jpg",
+      "thumbnailPath": "images/products/mag/aquamulsion-packet-sm.jpg",
+      "description": {
+        "text": "Due to Transportation Regulations this product will only be shipped via FedEx Ground , Motor Freight or Ocean Freight.<br><br>",
+        "sizes": [
+          "Product Data Sheets are available by emailing our team at info@ueisystems.com"
+        ]
+      },
+      "prodNum": "Product #: IR-CHE8565",
+      "priceType": "Price Per Packet",
+      "prices": [
+        "$4.61"
+      ]
+    }
+  ]
+}

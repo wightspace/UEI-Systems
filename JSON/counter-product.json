@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "id": "cou-1",
+      "aspect": "horizontal",
+      "title": "Router Bit for Counters 1/4\" (6.35mm)",
+      "imagePath": "images/products/counter-supplies/1_4-router-bit-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/1_4-router-bit-sm.jpg",
+      "description": {
+        "text": "Router bits are used on a milling machine to machine away the background on counters.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO4304",
+      "priceType": "Price For Each",
+      "prices": [
+        "Call for price"
+      ]
+    },
+    {
+      "id": "cou-2",
+      "aspect": "horizontal",
+      "title": "Router Bit for Counters 9/16\" (14.3mm)",
+      "imagePath": "images/products/counter-supplies/9_16-router-bit-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/9_16-router-bit-sm.jpg",
+      "description": {
+        "text": "Router bits are used on a milling machine to machine away the background on counters.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO4302",
+      "priceType": "Price For Each",
+      "prices": [
+        "$31.50"
+      ]
+    },
+    {
+      "id": "cou-3",
+      "aspect": "horizontal",
+      "title": "Router Bit for Counters 1/2\" (12.7mm)",
+      "imagePath": "images/products/counter-supplies/1_2-router-bit-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/1_2-router-bit-sm.jpg",
+      "description": {
+        "text": "Router bits are used on a milling machine to machine away the background on counters.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO4306",
+      "priceType": "Price For Each",
+      "prices": [
+        "$47.25"
+      ]
+    },
+    {
+      "id": "cou-4",
+      "aspect": "horizontal",
+      "title": "Drill Bit for Counters 3/16\" (4.76mm)",
+      "imagePath": "images/products/counter-supplies/3_16-router-bit-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/3_16-router-bit-sm.jpg",
+      "description": {
+        "text": "These drill bits are used to drill out counter pin holes in molded counters.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO4320",
+      "priceType": "Price For Each",
+      "prices": [
+        "$2.36"
+      ]
+    },
+    {
+      "id": "cou-5",
+      "aspect": "horizontal",
+      "title": "Putty Knife",
+      "imagePath": "images/products/counter-supplies/putty-knife-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/putty-knife-sm.jpg",
+      "description": {
+        "text": "Putty knives are useful for many different applications. While making counters, they are commonly used to scrape off the excess epoxy before it has fully hardened. They are also used when milling counters to pry the counterboard off the press.",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO4200",
+      "priceType": "Price For Each",
+      "prices": [
+        "$10.02"
+      ]
+    },
+    {
+      "id": "cou-6",
+      "aspect": "horizontal",
+      "title": "Paste Wax",
+      "imagePath": "images/products/counter-supplies/paste-wax-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/paste-wax-sm.jpg",
+      "description": {
+        "text": "Paste Wax has a special blend of hard finish waxes. It provides a rich, satiny luster and gives lasting beauty and protection for wood, metal , leather, plastic, cork, and vinyl. Excellent for antiques furniture and worn or damaged wood.<br><br>Paste Wax is used in counter-making to prevent the epoxy from sticking to the engraved die. Simply wipe over the surface of the die, remove excess and proceed with molding counters. You will be able to remove the hardened counter from the die easily without damaging either the counter or the die.<br><br>",
+        "sizes": []
+      },
+      "prodNum": "Product #: IS-PRO4156",
+      "priceType": "Price Per Can",
+      "prices": [
+        "$10.29"
+      ]
+    },
+    {
+      "id": "cou-7",
+      "aspect": "horizontal",
+      "title": "Plastic Counter Pins",
+      "imagePath": "images/products/counter-supplies/counter-pins-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/counter-pins-sm.jpg",
+      "description": {
+        "text": "These pins are utilized during make-ready to align the counter and die and assure proper registration.<br><br>",
+        "sizes": "(250 per package)"
+      },
+      "prodNum": "Product #: IS-PRO4040",
+      "priceType": "Price Per Package",
+      "prices": [
+        "$16.96"
+      ]
+    },
+    {
+      "id": "cou-8",
+      "aspect": "horizontal",
+      "title": "Counter Pin Extractors",
+      "imagePath": "images/products/counter-supplies/pin-extractor-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/pin-extractor-sm.jpg",
+      "description": {
+        "text": "This is a tool utilized for placing counter pins into, and removing them from, precast counters and dies.<br><br>",
+        "sizes": "(250 per package)"
+      },
+      "prodNum": "Product #: IS-PRO4041",
+      "priceType": "Price For Each",
+      "prices": [
+        "$6.68"
+      ]
+    },
+    {
+      "id": "cou-9",
+      "aspect": "horizontal",
+      "title": "Carbide Burr",
+      "imagePath": "images/products/counter-supplies/carbide-burr.jpg",
+      "thumbnailPath": "images/products/counter-supplies/carbide-burr.jpg",
+      "description": {
+        "text": "This is a tool utilized for placing counter pins into, and removing them from, precast counters and dies.<br><br>",
+        "sizes": "#1/2<br>#4<br>#6<br>#8"
+      },
+      "prodNum": "Product #: IS-BUR",
+      "priceType": "Price For Each",
+      "prices": [
+        "$2.54"
+      ]
+    },
+    {
+      "id": "cou-10",
+      "aspect": "horizontal",
+      "title": "Countersink for Counters 2\" Carbide",
+      "imagePath": "images/products/counter-supplies/carbide-countersink-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/carbide-countersink-sm.jpg",
+      "description": {
+        "text": "Countersinks are used to deburr holes in counters.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-PRO2314",
+      "priceType": "Price For Each",
+      "prices": [
+        "$60.95"
+      ]
+    },
+    {
+      "id": "cou-100",
+      "aspect": "vertical",
+      "title": "Counterboard",
+      "imagePath": "images/products/counter-supplies/counterboard.jpg",
+      "thumbnailPath": "images/products/counter-supplies/counterboard.jpg",
+      "description": {
+        "text": "Recommended for: engravers to mold pre-cast counters.<br><br>Counter board is available in the following sizes:<br><br>",
+        "sizes": "24\" x 36\" x .015\" (609.6mm x 914.4mm x 0.381mm)<br>24\" x 36\" x .030\" (609.6mm x 914.4mm x 0.762mm)<br>24\" x 36\" x .040\" (609.6mm x 914.4.mm x 1.016mm)<br>24\" x 36\" x .060\" (609.6mm x 914.4mm x 1.524mm)<br>24\" x 36\" x .125\" (609.6mm x 914.4mm x 3.175mm)<br>36\" x 48\" x .005\" (914.4mm x 1.52m x .127mm)<br>36\" x 48\" x .008\" (914.4mm x 1.52m x .203mm)"
+      },
+      "prodNum": "Product #: IR-CNT",
+      "priceType": "Price For Each",
+      "prices": [
+        "-Select-",
+        "24\" x 36\" x .015__$32.07",
+        "24\" x 36\" x .040__$57.95",
+        "24\" x 36\" x .125__$96.76",
+        "24\" x 36\" x .030__$28.00",
+        "24\" x 36\" x .060__$42.62",
+        "36\" x 48\" x .008__$77.76"
+      ]
+    },
+    {
+      "id": "cou-101",
+      "aspect": "vertical",
+      "title": "GPC® Epoxy Resin Blended",
+      "imagePath": "images/products/counter-supplies/epoxy-resin-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/epoxy-resin-sm.jpg",
+      "description": {
+        "text": "Epoxy Resin is mixed with Epoxy Hardener to make counters. Epoxy resin is colored with a black pigment in order to clearly see the image on the counter board, and make the job of relieving and grinding counters much easier. As you grind away the top layer, the layer revealed below is off-white.<br><br>",
+        "sizes": "Available in Gallon or 1/2 Gallon Sizes"
+      },
+      "prodNum": "Product #: n/a",
+      "priceType": "Price For Each",
+      "prices": [
+        "-Select-",
+        "1 gallon__$73.72",
+        "1/2 gallon__$37.73"
+      ]
+    },
+    {
+      "id": "cou-102",
+      "aspect": "vertical",
+      "title": "GPC® Epoxy Hardener",
+      "imagePath": "images/products/counter-supplies/epoxy-hardener-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/epoxy-hardener-sm.jpg",
+      "description": {
+        "text": "Mix Epoxy hardener with Epoxy Resin to make counters.<br><br>",
+        "sizes": "Available in Gallon or 1/2 Gallon Sizes"
+      },
+      "prodNum": "Product #: n/a",
+      "priceType": "Price For Each",
+      "prices": [
+        "-Select-",
+        "1 gallon__$64.51",
+        "1/2 gallon__$33.69"
+      ]
+    },
+    {
+      "id": "cou-103",
+      "aspect": "vertical",
+      "title": "Plastic Mixing Cups (50 per pkg.)",
+      "imagePath": "images/products/counter-supplies/mixing-cups-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/mixing-cups-sm.jpg",
+      "description": {
+        "text": "Plastic Mixing cups are used to combine pre-measured amounts of epoxy resin and epoxy hardener when making counters. They are also handy for a wide variety of other uses.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-PRO4152",
+      "priceType": "Price Per Package",
+      "prices": [
+        "$7.79"
+      ]
+    },
+    {
+      "id": "cou-104",
+      "aspect": "vertical",
+      "title": "Isopropyl Alcohol",
+      "imagePath": "images/products/counter-supplies/alcohol-med.jpg",
+      "thumbnailPath": "images/products/counter-supplies/alcohol-sm.jpg",
+      "description": {
+        "text": "Isopropyl Alcohol quickly and easily cleans counters and engraved dies. Will remove wax, Sharpie® marker and kill germs.<br><br>",
+        "sizes": ""
+      },
+      "prodNum": "Product #: IS-PRO1049",
+      "priceType": "Price Per Gallon",
+      "prices": [
+        "$16.26"
+      ]
+    }
+  ]
+}
