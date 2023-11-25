@@ -6,24 +6,30 @@
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/reset.css">
+    <link rel="stylesheet" href="CSS/utils.css">
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <script src="JS/components/menu.js" type="text/javascript" defer></script>
     <title>Document Display</title>
 </head>
+
 <body style="height:100vh">
     <iframe id="doc-display" src="" frameborder="0" height="100%" width="100%">
     </iframe>
 </body>
 
-    <script>
-        let urlData = location.href //grab the url
+<script>
+    let urlData = location.href //grab the url
 
-        let docData = urlData.split('?')[1]  //split the url to get the passed document 
+    let docData = urlData.split('?')[1]  //split the url to get the passed document 
 
-        document.getElementById('doc-display').src = docData  //set the source attribute in the iFrame
+    document.getElementById('doc-display').src = docData  //set the source attribute in the iFrame
 
-    </script>
-</html>  
+</script>
+
+</html>

@@ -4,9 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/reset.css">
     <link rel="stylesheet" href="CSS/uei-systems.css">
     <link rel="stylesheet" href="CSS/sds-sheets.css">
+    <link rel="stylesheet" href="CSS/utils.css">
     <link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
+    <script src="JS/components/menu.js" type="text/javascript" defer></script>
     <title>UEI Systems</title>
 </head>
 
@@ -27,16 +30,7 @@
                 <img src="images/systems-logo.png" alt="logo">
             </section>
         </div>
-        <div id="menu">
-            <ul>
-                <li><a href="uei-systems.html">Home</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="product-page.html#copper">Products</a></li>
-                <li class="active"><a href="#">Safety Docs</a></li>
-                <li><a href="policies.html">Policies</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
-            </ul>
-        </div>
+        <main-menu active-item="sds-sheets.html" />
     </header>
 
     <main class="container">
@@ -95,11 +89,11 @@
                     <span class="doc-link">SDS GPC&reg; High Copper Ferric Chloride</span>
                 </a>
                 <a href="docDisplay.html?docs/SDS GPC® MiraCopper® AquaMulsion® Negative Resist Coated.pdf"
-                    target="_blank">
+                   target="_blank">
                     <span class="doc-link">SDS GPC&reg; MiraCopper&reg; AquaMulsion&reg; Negative Resist Coated</span>
                 </a>
                 <a href="docDisplay.html?docs/SDS GPC® MiraCopper® AquaMulsion® Positive Resist Coated.pdf"
-                    target="_blank">
+                   target="_blank">
                     <span class="doc-link">SDS GPC&reg; MiraCopper&reg; AquaMulsion&reg; Positive Resist Coated</span>
                 </a>
                 <a href="docDisplay.html?docs/SDS GPC® MiraCopper® Uncoated.pdf" target="_blank">

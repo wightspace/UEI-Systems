@@ -21,13 +21,15 @@ function getProductData(jsonFile) {
         .then((jsonObj) => {
 
             jsonObj.data.forEach(product => {
-                if (product.aspect === 'horizontal') {
-                    buildHorizontalCard(product)
-                }
-                if (product.aspect === 'vertical') {
-                    buildVerticalCard(product)
+                // if (product.aspect === 'horizontal') {
+                //     buildHorizontalCard(product)
+                // }
 
-                }
+                // if (product.aspect === 'vertical') {
+                //     buildVerticalCard(product)
+                // }
+
+                buildHorizontalCard(product)
             })
             // add event listers to all horizontal view cards
             let h_cards = document.querySelectorAll('.prod-view-btn')
